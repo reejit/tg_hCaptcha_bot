@@ -1,5 +1,4 @@
 build:
   docker:
     worker: Dockerfile
-run:
-  web: python tests.py
+
