@@ -2,4 +2,4 @@ build:
   docker:
     worker: Dockerfile
 run:
-  worker: python -m tg_hCaptcha_bot
+  web: python tests.py
